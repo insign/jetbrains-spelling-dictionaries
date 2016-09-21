@@ -1,2 +1,2 @@
-# jetbrains-ideia-dictionaries
-JetBrains ideas apps like dictionary of spelling
+# jetbrains--dictionaries
+JetBrains intellij ideas apps like dictionary of spelling
